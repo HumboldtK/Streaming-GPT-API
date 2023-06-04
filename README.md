@@ -6,7 +6,7 @@ This project demonstrates how to stream API responses using plain JavaScript, HT
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Streaming-GPT-API.git
+    git clone https://github.com/HumboldtK/Streaming-GPT-API.git
     ```
 
 2. Navigate to the project directory:
