@@ -2,6 +2,8 @@
 
 This project demonstrates how to stream API responses using plain JavaScript, HTML, and Node.js. 
 
+View Live Code: https://app.jacobmanus.com/
+
 ## Setup and Installation
 
 1. Clone the repository:
