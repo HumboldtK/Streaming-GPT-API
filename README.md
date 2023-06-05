@@ -11,9 +11,9 @@ View Live Code: https://app.jacobmanus.com/
     git clone https://github.com/HumboldtK/Streaming-GPT-API.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the project server directory:
     ```bash
-    cd Streaming-GPT-API
+    cd Streaming-GPT-API/Server
     ```
 
 3. Install the necessary npm packages:
