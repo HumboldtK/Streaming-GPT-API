@@ -1,6 +1,6 @@
 # Streaming GPT API
 
-This project demonstrates how to stream API responses using plain JavaScript, HTML, and Node.js. 
+This project demonstrates how to stream openai's ChatGPT API responses using plain JavaScript, HTML, and Node.js. 
 
 View Live Code: https://app.jacobmanus.com/
 
